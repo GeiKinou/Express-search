@@ -1,0 +1,21 @@
+/**index.wxss**/
+input{
+  border: 1px  red; 
+  width: 90%;
+  margin: 5%;
+  padding: 5px;
+  background-color: gainsboro;
+}
+
+button{
+  width: 20%;
+}
+
+.infodisplay{
+  background-color: gainsboro;
+  margin: 5%;
+}
+
+.info{
+  margin: 2%;
+}
